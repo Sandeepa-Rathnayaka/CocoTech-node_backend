@@ -1,0 +1,16 @@
+{"level":"info","message":"MongoDB reconnected","service":"coconut-farm-api","timestamp":"2025-02-24 01:07:19"}
+{"level":"warn","message":"MongoDB disconnected","service":"coconut-farm-api","timestamp":"2025-02-24 08:07:52"}
+{"level":"info","message":"MongoDB reconnected","service":"coconut-farm-api","timestamp":"2025-02-24 08:07:52"}
+{"level":"info","message":"Received shutdown signal. Starting graceful shutdown...","service":"coconut-farm-api","timestamp":"2025-02-24 08:57:07"}
+{"level":"info","message":"Server running on port 7000 in development mode","service":"coconut-farm-api","timestamp":"2025-02-24 10:04:49"}
+{"level":"info","message":"Server URL: http://localhost:7000","service":"coconut-farm-api","timestamp":"2025-02-24 10:04:49"}
+{"database":"hello","host":"ac-5qiwzr2-shard-00-02.in6etp1.mongodb.net","level":"info","message":"MongoDB Connected Successfully!","port":27017,"service":"coconut-farm-api","timestamp":"2025-02-24 10:04:50"}
+{"level":"info","message":"MongoDB reconnected","service":"coconut-farm-api","timestamp":"2025-02-24 21:10:19"}
+{"level":"info","message":"MongoDB reconnected","service":"coconut-farm-api","timestamp":"2025-02-24 21:10:19"}
+{"level":"warn","message":"MongoDB disconnected","service":"coconut-farm-api","timestamp":"2025-02-24 21:10:30"}
+{"level":"info","message":"MongoDB reconnected","service":"coconut-farm-api","timestamp":"2025-02-24 21:10:30"}
+{"level":"info","message":"Received shutdown signal. Starting graceful shutdown...","service":"coconut-farm-api","timestamp":"2025-02-24 22:00:19"}
+{"level":"info","message":"Server running on port 7000 in development mode","service":"coconut-farm-api","timestamp":"2025-02-24 22:01:22"}
+{"level":"info","message":"Server URL: http://localhost:7000","service":"coconut-farm-api","timestamp":"2025-02-24 22:01:22"}
+{"database":"hello","host":"ac-5qiwzr2-shard-00-01.in6etp1.mongodb.net","level":"info","message":"MongoDB Connected Successfully!","port":27017,"service":"coconut-farm-api","timestamp":"2025-02-24 22:01:23"}
+{"level":"info","message":"Received shutdown signal. Starting graceful shutdown...","service":"coconut-farm-api","timestamp":"2025-02-24 22:08:56"}
